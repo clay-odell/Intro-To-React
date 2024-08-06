@@ -1,0 +1,35 @@
+.tweet {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    background-color: #95b2f1b6;
+    
+  }
+  
+  .tweet h3 {
+    margin: 0;
+    color: #ffffff;
+    text-shadow: rgb(26, 26, 60) 2px 1px 3px;
+           
+  }
+  
+  .tweet h4 {
+    margin: 0;
+    color: #666;
+    font-size: .75em;
+  }
+
+  .tweet h5 {
+    margin: 2px 2px 2px 2px;
+    font-size: .75em;
+  }
+  
+  .tweet p {
+    margin: 5px 0;
+    padding-left: 10px;
+    border-radius: 10px 10px;
+    background-color: rgb(255, 255, 255);
+    font-weight: bold;
+  }
+  
